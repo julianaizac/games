@@ -1,0 +1,17 @@
+body{
+    background: #037F8C;
+    background: radial-gradient(circle,#037F8C 0%, #02474e 100%);
+}
+
+#page-title{
+    text-align: center;
+    margin: 6rem;
+    font-family: 'Fjalla One', sans-serif;
+    text-shadow: rgb(46, 46, 46) 0.1em 0.1em 0.2em;
+}
+
+#author{
+    text-align: center;
+    margin: 8rem;
+    font-size: 1.5rem;
+}

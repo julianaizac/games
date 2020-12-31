@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    font: 400 1.8rem/1 'Roboto', sans-serif;
+}
+
+body, a{
+    color: white;
+}
