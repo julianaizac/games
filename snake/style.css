@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    font: 400 1.8rem/1 'Fjalla One', sans-serif;
+    text-align: center;
+    background: #037F8C;
+    background: radial-gradient(circle,#037F8C 0%, #02474e 100%);
+    
+}
+
+h1{
+    margin: 2.5rem;
+    color: #fff;
+    text-shadow: #2e2e2e 0.1em 0.1em 0.2em;
+}
+
+#stage{
+    border-radius: 2rem;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
+}
