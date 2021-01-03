@@ -13,13 +13,13 @@
 
 ---
 
-<h3 align="center">T-Rex Running 🦖</h3>
+<h3>T-Rex Running 🦖</h3>
 
-<img src=".github/trex.png" alt="T-Rex Running" width="500px" align="center">
+<img src=".github/trex.png" alt="T-Rex Running" width="500px">
 
-<h3 align="center">Snake 🐍</h3>
+<h3>Snake 🐍</h3>
 
-<img src=".github/snake.png" alt="Snake" width="500px" align="center">
+<img src=".github/snake.png" alt="Snake" width="500px">
 
 ---
 
