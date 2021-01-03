@@ -1,21 +1,33 @@
-.background{
-  background-color: #fafafa;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  font-size: 62.5%;
+}
+
+body{
+  font: 400 1.8rem/1 'Fjalla One', sans-serif;
+  text-align: center;
+  color: #5dcfdb; 
+  text-shadow: #2e2e2e 0.1em 0.1em 0.2em;
+}
+
+.dino, .cactus{
+  width: 60px;
+  height: 60px;
+  bottom: 0;
+  position: absolute;
 }
 
 .dino{
-  width: 60px;
-  height: 60px;
-  background-image: url(images/dino.png);
-  position: absolute;
-  bottom: 0;
+  background-image: url(images/dino-colorful.png);  
 }
 
 .cactus{
-  position: absolute;
-  width: 60px;
-  height: 60px;
-  bottom: 0;
-  background-image: url(images/cactus.png);
+  background-image: url(images/cactus-colorful.png);
 }
 
 .game-over{
@@ -31,12 +43,29 @@
   }
 }
 
+.sky{
+  background: linear-gradient(to bottom, #9be2fe 0%, #67d1fb 100%);
+  height: 200px;
+  margin-top: 15rem;
+  bottom: 1;
+}
+
+
 .background{
   position: absolute;
-  bottom: 0;
-  background-image: url(images/background.png);
+  background-image: url(images/background-colourful.png);
   background-repeat: repeat-x;
   animation: slide-right 10000s infinite linear;
   width: 100%;
   height: 200px;
+}
+
+.game-over{
+  margin: 5rem 0 2rem 0;
+  font-size: 8rem;
+  
+}
+
+.restart{
+  font-size: 3rem;
 }
