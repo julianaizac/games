@@ -31,6 +31,10 @@
 }
 
 .wrapper-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
     text-align: center;
     margin: 5rem;
 }
@@ -45,6 +49,8 @@
     margin: 0.5rem;
 }
 
-.wrapper-btn .btn:hover{
-    padding: 1.2rem 4.2rem;
+@media(max-width: 680px){
+    .wrapper-btn .btn{
+        width: 100%;
+    }
 }
