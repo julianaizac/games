@@ -2,8 +2,8 @@
 
 ## Games 💻
 
-- [T-Rex Running 🦖](https://github.com/julianaizac/netflix-clone/tree/main/netflix)
-- [Snake 🐍](https://github.com/julianaizac/netflix-clone/tree/main/instagram)
+- [T-Rex Running 🦖](https://github.com/julianaizac/games/tree/main/t-rex-running)
+- [Snake 🐍](https://github.com/julianaizac/games/tree/main/snake)
 
 ## Technologies used 🛠
 
@@ -17,11 +17,11 @@
 
 ### T-Rex Running 🦖
 
-<img src=".github/trex.png" alt="T-Rex Running">
+<img src=".github/trex.png" alt="T-Rex Running" width="400px">
 
 ### Snake 🐍
 
-<img src=".github/snake.png" alt="Snake">
+<img src=".github/snake.png" alt="Snake" width="400px">
 
 
 <p align= center>Developed by <strong>Juliana Izac 🌼</strong></p>
