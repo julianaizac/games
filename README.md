@@ -3,12 +3,14 @@
 - [T-Rex Running 🦖](https://github.com/julianaizac/games/tree/main/t-rex-running)
 - [Snake 🐍](https://github.com/julianaizac/games/tree/main/snake)
 
-## Technologies used 🛠
+## Technologies used 💻
 
-* Visual Studio Code
 * HTML
 * CSS
 * JavaScript
+
+## Tools used 🛠
+* Visual Studio Code
 * Piskel
 
 ---
